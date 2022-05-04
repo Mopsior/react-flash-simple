@@ -1,5 +1,5 @@
 {
-    "name": "react-simple-flash",
+    "name": "react-flash-simple",
     "version": "0.1.0",
     "description": "Simple React Flash message with GSAP",
     "license": "MIT",
